@@ -1,16 +1,19 @@
-## Hi there 👋
+## Olá, eu sou o Eduardo.
 
-<!--
-**Gitdu-edu/Gitdu-edu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente estou trabalhando em melhorar minhas habilidades de programação.
+- 🌱 Estudando: Java & Kotlin
+- 👯 Estou procurando colaborar em: Projetos open-source, desafios de programação e qualquer projeto que me ajude a crescer como desenvolvedor.
+- 📫 Como me encontrar: [<img src="https://img.icons8.com/fluent/24/000000/linkedin.png" alt="LinkedIn" />](https://www.linkedin.com/in/eduardo-silva-79aa99114/)
+- ⚡ Curiosidade: Adoro resolver quebra-cabeças.
 
-Here are some ideas to get you started:
+## Projetos
+- **Nome do Projeto**: Breve descrição do que o projeto faz e quais tecnologias você utilizou.
+- **Nome do Projeto**: Breve descrição do que o projeto faz e quais tecnologias você utilizou.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades
+- **Linguagens**: <img src="https://img.icons8.com/color/24/000000/java-coffee-cup-logo.png" alt="Java" />  <img src="https://img.icons8.com/color/24/000000/kotlin.png" alt="Kotlin" /> 
+- **Ferramentas**: <img src="https://img.icons8.com/color/24/000000/intellij-idea.png" alt="IntelliJ IDEA" /> <img src="https://img.icons8.com/color/24/000000/git.png" alt="Git" />
+- **Outras Habilidades**: Resolução de problemas, trabalho em equipe
+
+## Educação
+- Cursando Tecnologia da Informação (2º Ano)
