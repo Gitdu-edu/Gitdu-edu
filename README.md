@@ -1,7 +1,7 @@
 ## Olá, eu sou o Eduardo.
 
 - 🔭 Atualmente estou trabalhando em melhorar minhas habilidades de programação.
-- 🌱 Estudando: Java & Kotlin
+- 🌱 Estudando: Java
 - 👯 Estou procurando colaborar em: Projetos open-source, desafios de programação e qualquer projeto que me ajude a crescer como desenvolvedor.
 - 📫 Como me encontrar: [<img src="https://img.icons8.com/fluent/24/000000/linkedin.png" alt="LinkedIn" />](https://www.linkedin.com/in/eduardo-silva-79aa99114/)
 - ⚡ Curiosidade: Adoro resolver quebra-cabeças.
