@@ -6,10 +6,6 @@
 - 📫 Como me encontrar: [<img src="https://img.icons8.com/fluent/24/000000/linkedin.png" alt="LinkedIn" />](https://www.linkedin.com/in/eduardo-silva-79aa99114/)
 - ⚡ Curiosidade: Adoro resolver quebra-cabeças.
 
-## Projetos
-- **Nome do Projeto**: Breve descrição do que o projeto faz e quais tecnologias você utilizou.
-- **Nome do Projeto**: Breve descrição do que o projeto faz e quais tecnologias você utilizou.
-
 ## Habilidades
 - **Linguagens**: <img src="https://img.icons8.com/color/24/000000/java-coffee-cup-logo.png" alt="Java" />  <img src="https://img.icons8.com/color/24/000000/kotlin.png" alt="Kotlin" /> 
 - **Ferramentas**: <img src="https://img.icons8.com/color/24/000000/intellij-idea.png" alt="IntelliJ IDEA" /> <img src="https://img.icons8.com/color/24/000000/git.png" alt="Git" />
